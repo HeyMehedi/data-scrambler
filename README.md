@@ -1,1 +1,1 @@
-# js-data-scrambler
+# data-scrambler
